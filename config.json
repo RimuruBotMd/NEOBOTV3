@@ -1,15 +1,15 @@
 {
-  "ownerNumber": ["6283834558105@s.whatsapp.net"],
-  "ownerName": "Neo Botz",
-  "BotName": "Neo Botz",
-  "Footer": "© Created By Lexxy Official",
-  "email": "andra0628@gmail.com",
-  "website": "https://github.com/Lexxy24",
+  "ownerNumber": ["6288980870067@s.whatsapp.net"],
+  "ownerName": "SabilOfc",
+  "BotName": "Siesta Md",
+  "Footer": "© Created By Sabil Official",
+  "email": "lordturu07@gmail.com",
+  "website": "https://github.com/RimuruBotMd",
   "region": "indonesia",
-  "pathimg": "./media/neobot.jpg",
+  "pathimg": "./media/siesta.jpg",
   "limitCount": 40,
   "gcount": {
-	"prem": 9999,
+	"prem": 999999999,
 	"user": 30
   }
 }
